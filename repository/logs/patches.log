@@ -1,0 +1,56 @@
+[2023-07-27 12:39:40,803]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-07-27 12:39:40,807]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-07-27 12:39:40,808]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-07-27 12:39:40,809]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-07-27 12:50:36,679]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-07-27 12:50:36,684]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-07-27 12:50:36,685]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-07-27 12:50:36,686]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-07-27 14:01:03,284]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-07-27 14:01:03,289]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-07-27 14:01:03,290]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-07-27 14:01:03,291]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-07-27 14:35:35,289]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-07-27 14:35:35,293]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-07-27 14:35:35,293]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-07-27 14:35:35,294]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-07-27 20:40:55,923]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-07-27 20:40:55,927]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-07-27 20:40:55,927]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-07-27 20:40:55,928]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-07-27 20:45:37,481]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-07-27 20:45:37,485]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-07-27 20:45:37,485]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-07-27 20:45:37,486]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-07-27 20:53:27,076]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-07-27 20:53:27,083]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-07-27 20:53:27,084]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-07-27 20:53:27,085]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-07-27 21:02:37,801]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-07-27 21:02:37,806]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-07-27 21:02:37,807]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-07-27 21:02:37,808]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-07-27 21:04:40,326]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-07-27 21:04:40,329]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-07-27 21:04:40,330]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-07-27 21:04:40,331]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-07-28 10:52:27,426]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-07-28 10:52:27,429]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-07-28 10:52:27,430]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-07-28 10:52:27,430]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-08-29 20:57:32,392]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-08-29 20:57:32,397]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-08-29 20:57:32,398]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-08-29 20:57:32,398]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-08-29 21:06:22,856]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-08-29 21:06:22,861]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-08-29 21:06:22,862]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-08-29 21:06:22,863]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-08-29 21:10:11,727]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-08-29 21:10:11,732]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-08-29 21:10:11,732]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-08-29 21:10:11,733]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  
+[2023-08-31 10:07:57,970]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - Checking for patch changes ...  
+[2023-08-31 10:07:57,974]  FINE {org.wso2.micro.integrator.server.util.PatchUtils processPatches} - No new patch or service pack detected, server will start without applying patches   
+[2023-08-31 10:07:57,975]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification started  
+[2023-08-31 10:07:57,976]  FINE {org.wso2.micro.integrator.server.util.PatchUtils checkMD5Checksum} - Patch verification successfully completed  

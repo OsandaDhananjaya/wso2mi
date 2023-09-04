@@ -1,0 +1,23 @@
+[2023-07-28 10:52:31,724]  INFO {org.wso2.micro.integrator.initializer.deployment.application.deployer.CappDeployer} - Successfully Deployed Carbon Application : TestInt2CompositeExporter_1.0.0{super-tenant}
+[2023-07-28 10:52:31,747]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Pass-through HTTP Listener started on 0.0.0.0:8290
+[2023-07-28 10:52:31,762]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Pass-through HTTPS Listener started on 0.0.0.0:8253
+[2023-07-28 10:52:31,763]  INFO {org.wso2.micro.integrator.initializer.StartupFinalizer} - WSO2 Micro Integrator started in 4.48 seconds
+[2023-07-28 10:52:31,880]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Pass-through EI_INTERNAL_HTTP_INBOUND_ENDPOINT Listener started on 0.0.0.0:9201
+[2023-07-28 10:52:31,902]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Pass-through EI_INTERNAL_HTTPS_INBOUND_ENDPOINT Listener started on 0.0.0.0:9164
+[2023-07-28 11:53:12,120]  INFO {org.wso2.micro.integrator.core.internal.CoreServerInitializer} - Gracefully shutting down WSO2 Micro Integrator...
+[2023-07-28 11:53:12,124]  INFO {org.wso2.micro.core.ServerManagement} - Starting to switch to maintenance mode...
+[2023-07-28 11:53:12,124]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Pausing  IO Reactor bind for port 8290
+[2023-07-28 11:53:12,126]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Shutting down IO Reactor bind for port 8290
+[2023-07-28 11:53:12,137]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - HTTP-Listener I/O dispatcher Listener shutdown.
+[2023-07-28 11:53:12,138]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Pausing  IO Reactor bind for port 8253
+[2023-07-28 11:53:12,140]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - Shutting down IO Reactor bind for port 8253
+[2023-07-28 11:53:12,144]  INFO {org.apache.synapse.transport.passthru.core.PassThroughListeningIOReactorManager} - HTTPS-Listener I/O dispatcher Listener shutdown.
+[2023-07-28 11:53:12,145]  INFO {org.wso2.micro.core.ServerManagement} - Stopped all transport listeners
+[2023-07-28 11:53:12,146]  INFO {org.wso2.micro.core.ServerManagement} - Waiting for request service completion...
+[2023-07-28 11:53:12,150]  INFO {org.wso2.micro.core.ServerManagement} - All requests have been served.
+[2023-07-28 11:53:12,150]  INFO {org.wso2.micro.core.ServerManagement} - Waiting for deployment completion...
+[2023-07-28 11:53:12,153]  INFO {org.wso2.micro.core.ServerManagement} - All deployment tasks have been completed.
+[2023-07-28 11:53:12,153]  INFO {org.wso2.micro.core.ServerManagement} - Waiting for server task completion...
+[2023-07-28 11:53:12,154]  INFO {org.wso2.micro.core.ServerManagement} - All server tasks have been completed.
+[2023-07-28 11:53:12,172]  INFO {org.apache.synapse.deployers.interceptor.DeploymentInterceptor} - Removing Axis2 Service: __SynapseService
+[2023-07-28 11:53:12,174]  INFO {org.apache.synapse.task.SynapseTaskManager} - Shutting down the task manager
